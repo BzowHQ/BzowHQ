@@ -13,10 +13,6 @@
 <!-- ========================= -->
 
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/1tR8n9Q.gif" width="650" />
-</p>
 
 <h1 align="center">Hi, I'm <span style="color:#9b59b6;">bZow</span> aka <span style="color:#8e44ad;">BzowHQ</span> 👁️‍🗨️</h1>
 

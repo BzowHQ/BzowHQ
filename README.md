@@ -48,7 +48,7 @@
 Anti-raid + 180 commandes internes, sécurité avancée, logs intelligents *(Private)*  
 
 ### ⚙️ **bZowTools V1**  
-NitrateChecker, Nuker, Nitro-Checker, automations & utils *(Private)*  
+NitrateChecker, Nuker, DmallBot and Friends, automations & utils *(Private)*  
 
 ### 🧠 **Memorie-snap-fix**  
 Script PowerShell qui répare ZIP → JPG/PNG/MP4 *(Public)*  

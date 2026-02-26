@@ -180,9 +180,9 @@ Written in Rust for performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BzowHQ&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true&ring_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BzowHQ&theme=github_dark" height="165"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=BzowHQ&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=8b949e&dates=8b949e&stroke=1a1a2e&hide_border=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BzowHQ&theme=github_dark&utcOffset=2" height="165"/>
 
 <br><br>
 

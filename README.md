@@ -182,11 +182,11 @@ Written in Rust for performance
 
 <img src="https://github-readme-stats.vercel.app/api?username=BzowHQ&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true&ring_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BzowHQ&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=8b949e&dates=8b949e&stroke=1a1a2e&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=BzowHQ&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=8b949e&dates=8b949e&stroke=1a1a2e&hide_border=true" height="165"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BzowHQ&bg_color=0d1117&color=8b949e&line=ffffff&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BzowHQ&theme=github_dark" width="95%"/>
 
 </div>
 

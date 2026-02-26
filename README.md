@@ -180,12 +180,6 @@ Written in Rust for performance
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BzowHQ&theme=github_dark" height="165"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BzowHQ&theme=github_dark&utcOffset=2" height="165"/>
-
-<br><br>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BzowHQ&theme=github_dark" width="95%"/>
 
 </div>

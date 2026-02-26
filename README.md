@@ -1,94 +1,76 @@
-<!-- ========================= -->
-<!--     DISCORD CARD BANNER   -->
-<!-- ========================= -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/BzowHQ/BzowHQ/main/assets/banner.gif" width="900" />
 </p>
 
-<br><br>
+<br>
 
-<!-- ========================= -->
-<!--        ORIGINAL PART      -->
-<!-- ========================= -->
-
-
-
-<h1 align="center">Hi, I'm <span style="color:#9b59b6;">bZow</span> aka <span style="color:#8e44ad;">BzowHQ</span> 👁️‍🗨️</h1>
+<h1 align="center">bZow</h1>
 
 <p align="center">
-  Passionné par la cybersécurité, les bots Discord avancés,  
-  l’automatisation & l’optimisation d’outils performants.<br>
-  Toujours en train d’apprendre, créer, tester et casser pour mieux reconstruire.
-</p>
-
-<hr>
-
-
-## 🚀 Languages & Tools
-
-<div align="center">
-
-![JS](https://img.shields.io/badge/-JavaScript-111?style=for-the-badge&logo=javascript)
-![Node](https://img.shields.io/badge/-Node.js-111?style=for-the-badge&logo=node.js)
-![PowerShell](https://img.shields.io/badge/-PowerShell-111?style=for-the-badge&logo=powershell)
-![Python](https://img.shields.io/badge/-Python-111?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/-Git-111?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-111?style=for-the-badge&logo=visual-studio-code)
-
-</div>
-
-<hr>
-
-## 📂 Main Projects (public + private)
-
-🔒 *Beaucoup de projets sont privés, mais voici ce sur quoi je travaille :*
-
-### 🛡️ **ProtectBot**  
-Anti-raid + 180 commandes internes, sécurité avancée, logs intelligents *(Private)*  
-
-### ⚙️ **bZowTools V1**  
-NitrateChecker, Nuker, DmallBot and Friends, automations & utils *(Private)*  
-
-### 🧠 **Memorie-snap-fix**  
-Script PowerShell qui répare ZIP → JPG/PNG/MP4 *(Public)*  
-
-### 💬 **dMall-UHQ**  
-Outil complet DM Discord + anti-block + logs *(Private)*  
-
-<hr>
-
-## 📈 My GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bZowHQ&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bZowHQ&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<hr>
-
-## 🌐 Connect with me
-
-<div align="center">
-
-[<img src="https://skillicons.dev/icons?i=discord" width="45"/>](#)
-[<img src="https://skillicons.dev/icons?i=twitter" width="45"/>](#)
-[<img src="https://skillicons.dev/icons?i=instagram" width="45"/>](#)
-[<img src="https://skillicons.dev/icons?i=github" width="45"/>](#)
-
-</div>
-
-<hr>
-
-## 👁️ Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bZowHQ&color=682ae9&style=for-the-badge" />
+  <strong>Full-Stack Developer & Security Researcher</strong><br>
+  <sub>Building crypto infrastructure, OSINT platforms, and streaming services.</sub>
 </p>
 
 <p align="center">
-  <i>“Learning, building, breaking — repeat.”</i>
+  <a href="https://see-know.eu">see-know.eu</a> · <a href="https://streamflix.fr">streamflix.fr</a> · <a href="https://github.com/BzowHQ">github</a>
+</p>
+
+<br>
+
+---
+
+### Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0f0f0f?style=flat-square&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/Rust-0f0f0f?style=flat-square&logo=rust&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-0f0f0f?style=flat-square&logo=powershell&logoColor=5391FE)
+![Next.js](https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f0f0f?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=node.js&logoColor=5FA04E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-0f0f0f?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=flat-square&logo=docker&logoColor=2496ED)
+
+</div>
+
+---
+
+### Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **NeetPay** | Self-hosted crypto payment gateway — multi-chain (BTC, ETH, SOL, XMR, TRX), merchant dashboard, swap interface | Next.js · TypeScript · Prisma · PostgreSQL |
+| **SeekNow** | OSINT & dark web search platform — intelligence gathering and deep web indexing | [see-know.eu](https://see-know.eu) |
+| **StreamFlix** | French streaming platform — movies & series catalog with modern UI | [streamflix.fr](https://streamflix.fr) |
+| **MoonChat** | Monero-based encrypted chat application | Rust |
+| **ProtectBot** | Discord security bot — anti-raid, 180+ commands, intelligent logging | Node.js · JavaScript |
+| **bZowTools** | Security toolkit — nitrate checker, automations, utilities | Node.js · PowerShell |
+
+---
+
+### Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BzowHQ&show_icons=true&bg_color=0f0f0f&title_color=fff&text_color=9f9f9f&icon_color=fff&hide_border=true&ring_color=fff" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BzowHQ&layout=compact&bg_color=0f0f0f&title_color=fff&text_color=9f9f9f&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+<p align="center">
+  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" width="30"/></a>&nbsp;&nbsp;
+  <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" width="30"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/BzowHQ"><img src="https://skillicons.dev/icons?i=github" width="30"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BzowHQ&color=white&style=flat-square&label=views" />
 </p>
